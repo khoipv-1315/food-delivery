@@ -1,0 +1,17 @@
+{
+  "name": "bower_food_delivery",
+  "version": "1.8.2",
+  "authors": [
+    "Phan Khoi <vothien10101996@gmail.com>"
+  ],
+  "description": "Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/phanvankhoi/bower_food_delivery.git",
+  "ignore": [
+    "README.md"
+  ]
+}

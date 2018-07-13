@@ -1,0 +1,22 @@
+<?php
+return [
+	'id' => 'id',
+	'serial' => '#',
+	'discount' => 'discount',
+	'start date' => 'start date',
+	'end date' => 'end date',
+	'delete' => 'delete', 
+	'add discount' => 'add discount',
+	'create'=>'create',
+	'add' => 'add',
+	'update' => 'update',
+	'edit discount' => 'edit discount',
+	'admin' => 'admin',
+	'Add discount' => 'Add discount',
+	'List discount' => 'List discount',
+	'Search' => 'Search',
+	'create failed' => 'create failed',
+	'delete success' => 'delete success',
+	'create success' => 'create success',
+	'update success' => 'update success',
+];

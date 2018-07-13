@@ -1,0 +1,42 @@
+{
+  "name": "framgia_food_delivery",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Phan Khoi <vothien10101996@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/framgia/framgia_food_delivery.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower_food_delivery": "https://github.com/phanvankhoi/bower_food_delivery.git",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "https://github.com/FortAwesome/Font-Awesome.git#^4.7.0",
+    "nprogress": "https://github.com/rstacruz/nprogress.git#^0.2.0",
+    "iCheck": "https://github.com/fronteed/icheck.git#^1.0.2",
+    "bootstrap-progressbar": "https://github.com/minddust/bootstrap-progressbar.git#^0.9.0",
+    "jqvmap": "https://github.com/manifestinteractive/jqvmap.git#^1.5.1",
+    "bootstrap-daterangepicker": "https://github.com/dangrossman/bootstrap-daterangepicker.git#^2.1.25",
+    "jquery": "^3.2.1",
+    "fastclick": "https://github.com/ftlabs/fastclick.git#^1.0.6",
+    "gauge.js": "https://github.com/bernii/gauge.js.git#^1.3.5",
+    "Flot": "https://github.com/flot/flot.git#^0.8.3",
+    "flot-orderBars": "https://github.com/emmerich/flot-orderBars.git#^1.0.0",
+    "flot-spline": "https://github.com/johnpozy/flot-spline.git#^0.8.2",
+    "flot.curvedlines": "^1.1.1",
+    "DateJS": "https://github.com/abritinthebay/datejs.git#^1.0.0-rc3",
+    "jQuery-gMap": "https://github.com/marioestrada/jQuery-gMap.git#^2.1.5",
+    "owl.carousel": "https://github.com/OwlCarousel2/OwlCarousel2.git#^2.2.1",
+    "bootstrap-datepicker": "^1.7.1",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "moment": "^2.19.2",
+    "bootstrap-rating": "^1.4.0"
+  }
+}

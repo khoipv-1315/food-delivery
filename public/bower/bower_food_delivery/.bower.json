@@ -1,0 +1,25 @@
+{
+  "name": "bower_food_delivery",
+  "authors": [
+    "Phan Khoi <vothien10101996@gmail.com>"
+  ],
+  "description": "Bower",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/phanvankhoi/bower_food_delivery.git",
+  "ignore": [
+    "README.md"
+  ],
+  "_release": "ff331a26e4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ff331a26e469884cbdc3351fbd291c45a5d2e35a"
+  },
+  "_source": "https://github.com/phanvankhoi/bower_food_delivery.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/phanvankhoi/bower_food_delivery.git"
+}
